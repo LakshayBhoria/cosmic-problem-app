@@ -20,7 +20,9 @@ A modern, dark-themed UI for space, AI, and physics enthusiasts to discuss compl
 | Home Screen | Profile Screen | Create Problem |
 | :---: | :---: | :---: |
 | <img src="<img width="380" height="827" alt="Screenshot 2026-07-28 131705" src="https://github.com/user-attachments/assets/6408c860-db17-40b4-a78a-444dc3b4a908" />
-" width="250"/> | <img src="screenshots/profile.png" width="250"/> | <img src="screenshots/create.png" width="250"/> |
+" width="250"/> | <img src="<img width="397" height="824" alt="Screenshot 2026-07-28 131817" src="https://github.com/user-attachments/assets/9c4301df-1b51-4077-b917-79f8763b5cae" />
+" width="250"/> | <img src="<img width="398" height="840" alt="Screenshot 2026-07-28 131823" src="https://github.com/user-attachments/assets/a4aa6bf1-9ab4-4867-a764-b559a6b922b0" />
+" width="250"/> |
 
 ---
 
